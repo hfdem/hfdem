@@ -2,8 +2,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Java          1 hr 30 mins    █████████████████████████   99.97 %
-IDEA_MODULE   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
